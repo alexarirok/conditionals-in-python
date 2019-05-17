@@ -3,7 +3,7 @@ Learning about conditionals in python.
 ## Project Description
 The project is working on 8 files which include;
  1. break.py
-    This describes how break condition is used in python.
+        This describes how break condition is used in python.
  2. continue.py
     It describes how continue condition is used in python.
  3. elif.py
