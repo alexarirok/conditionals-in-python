@@ -18,3 +18,9 @@ Learning about conditionals in python.
     Describes how you can nest different conditionals in python.
 ##### range.py
     Describes how you can use range() in python.
+### Technologies used
+ > Python programming language
+ ### Setup
+   1. Clone the project from github to your local pc.
+   2. cd to the folder containing the cloned project
+ > ```$ python3 <file.py>```
